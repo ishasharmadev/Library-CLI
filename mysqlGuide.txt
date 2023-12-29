@@ -1,0 +1,6 @@
+> mysql --version
+> mysql -u root -p
+    (password is root)
+
+> show databases;
+> create database dbName;
